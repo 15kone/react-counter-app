@@ -1,0 +1,38 @@
+button {
+  font-size: 16px;
+  margin: 10px;
+  color: white;
+  padding: 15px;
+  border-radius: 30px;
+  border-color: black;
+  border-width: 1px;
+  cursor: pointer;
+
+}
+
+button:hover {
+  opacity: 0.8;
+}
+
+.counterButton {
+  background-color: #00a5ab;
+  width: 100px;
+}
+
+
+.resetButton {
+  background-color: #824f8c;
+  width: 200px;
+}
+
+
+.count {
+  font-size: 50px;
+  padding: 20px;
+
+}
+
+.totalCount {
+  color: #00a5ab;
+  font-size: 150px;
+}
