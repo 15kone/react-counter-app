@@ -1,5 +1,5 @@
-#This is the source code of my first ever react app.
-#You can find the working webpage under this link.
+# This is the source code of my first ever react app.
+# You can find the working webpage under this link.
 http://15kone.github.io/react-counter-app
 
 # Getting Started with Create React App
